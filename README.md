@@ -46,10 +46,16 @@
 - 🎓 Deutsche Bank Scholar (via Smile Foundation)
 - Certified: AWS Cloud Foundations, DBMS (NPTEL), Python (IIT Bombay)
 
-### 📫 Reach Me
-**Email:** pawarsoniya0209@gmail.com · **LinkedIn:** [soniya-pawar-4506b4321](https://www.linkedin.com/in/soniya-pawar-4506b4321)
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Soniya-09&theme=default&hide_border=true" alt="GitHub streak stats" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Soniya-09?label=Followers&style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/Soniya-09?affiliations=OWNER&label=Stars&style=social" alt="GitHub stars" />
 </p>
+
+### 📫 Reach Me
+**Email:** pawarsoniya0209@gmail.com · **LinkedIn:** [soniya-pawar-4506b4321](https://www.linkedin.com/in/soniya-pawar-4506b4321)
