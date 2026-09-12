@@ -50,5 +50,6 @@
 **Email:** pawarsoniya0209@gmail.com · **LinkedIn:** [soniya-pawar-4506b4321](https://www.linkedin.com/in/soniya-pawar-4506b4321)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soniya-09&show_icons=true&theme=default" alt="Soniya's GitHub stats" />
+  <img src="https://img.shields.io/github/followers/Soniya-09?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Soniya-09?affiliations=OWNER&label=Stars&style=social" alt="GitHub stars" />
 </p>
