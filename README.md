@@ -53,6 +53,10 @@
 </p>
 
 <p align="center">
+  <img src="https://ghchart.rshah.org/2563eb/Soniya-09" alt="Soniya's GitHub contribution heatmap" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/github/followers/Soniya-09?label=Followers&style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/Soniya-09?affiliations=OWNER&label=Stars&style=social" alt="GitHub stars" />
 </p>
