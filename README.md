@@ -10,6 +10,12 @@
   <a href="mailto:pawarsoniya0209@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 
+### 🏙️ My Coding City
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Soniya-09/Soniya-09/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution city — builds a skyline from my commit history" />
+</p>
+<p align="center"><sub>Auto-regenerated daily by a GitHub Action from my real contribution graph — no manual updates.</sub></p>
+
 ---
 
 ### 🔭 Currently
@@ -53,8 +59,13 @@
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2563eb/Soniya-09" alt="Soniya's GitHub contribution heatmap" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Soniya-09/Soniya-09/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Soniya-09/Soniya-09/output/github-contribution-grid-snake.svg" />
+    <img alt="a snake eating my GitHub contribution grid" src="https://raw.githubusercontent.com/Soniya-09/Soniya-09/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
+<p align="center"><sub>Regenerated every 12h by a GitHub Action — also swaps light/dark to match your GitHub theme.</sub></p>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Soniya-09?label=Followers&style=social" alt="GitHub followers" />
