@@ -36,6 +36,9 @@
 
 | Project | Description |
 |---|---|
+| [Real-Time Client Project Dashboard](https://github.com/Soniya-09/velozity-rt-dashboard) | Role-based (admin/PM/developer) project & task tracker — JWT auth w/ refresh tokens, live status updates, Postgres, full backend ownership rules. [Live demo](https://velozity-rt-dashboard.vercel.app) |
+| [NOVA — Team Productivity Platform](https://github.com/Soniya-09/nova-project) | Full-stack project management app — React/Vite frontend, Node/Express + PostgreSQL backend, JWT auth, task assignment. [Live demo](https://nova-frontend-o9ox.onrender.com) |
+| [Mini Social Post App](https://github.com/Soniya-09/mini-social-app) | Social feed app — posts w/ text & images, likes/comments, React + MUI, Node/Express + MongoDB backend. [Live demo](https://mini-social-app-umber.vercel.app) |
 | [Consultancy Management System](https://github.com/Soniya-09/Innoinfinite-Solutions-) | PHP/MySQL consultancy platform — auth system + CRUD backend, built during Innoinfinite Solutions internship. |
 | [Student Achievement Website](https://github.com/Soniya-09/student-achievement-website) | Database-driven platform for tracking academic & extracurricular achievements. |
 | [EduMahaQuiz](https://github.com/Soniya-09/Prototype_EduMahaQuiz) | Interactive e-learning quiz platform for Maharashtra State Board curriculum. |
