@@ -1,0 +1,6 @@
+﻿# Local preview & temp files - never push these
+preview.html
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
