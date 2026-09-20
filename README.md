@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./banner.jpg" alt="Soniya Pawar — Backend & ERP Developer" width="100%" />
+  <img src="./banner-v2.jpg" alt="Soniya Pawar — Backend & ERP Developer" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Soniya+Pawar!;Backend+%26+ERP+Developer;Frappe+%2F+ERPNext+%E2%80%A2+Python+%E2%80%A2+Django;Building+Scalable+REST+APIs+%26+ERP+Systems;Computer+Engineering+Undergrad+%7C+2023%E2%80%932027" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=Frappe%2FERPNext+Dev+Intern+%40+Zuneko+Labs+%F0%9F%94%A5;Building+REST+APIs+%26+ERP+Systems+from+scratch;Smart+India+Hackathon+2025+%F0%9F%8F%85;Deutsche+Bank+Scholar+%F0%9F%8E%93;Computer+Engg+Undergrad+%7C+2023%E2%80%932027+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 <p align="center">
