@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Soniya Pawar</h1>
-<h3 align="center">Backend & ERP Developer | Frappe/ERPNext • Python • Django • React</h3>
+<p align="center">
+  <img src="./banner.jpg" alt="Soniya Pawar — Backend & ERP Developer" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Soniya+Pawar!;Backend+%26+ERP+Developer;Frappe+%2F+ERPNext+%E2%80%A2+Python+%E2%80%A2+Django;Building+Scalable+REST+APIs+%26+ERP+Systems;Computer+Engineering+Undergrad+%7C+2023%E2%80%932027" alt="Typing SVG" />
+</p>
 
 <p align="center">
   Computer Engineering undergrad (2023–2027) building scalable ERP systems, REST APIs, and full-stack apps.
