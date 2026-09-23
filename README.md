@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="./banner-v2.jpg" alt="Soniya Pawar — Backend & ERP Developer" width="100%" />
+  <img src="./banner-v3.jpg" alt="Soniya Pawar — Backend & ERP Developer" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=Frappe%2FERPNext+Dev+Intern+%40+Zuneko+Labs+%F0%9F%94%A5;Building+REST+APIs+%26+ERP+Systems+from+scratch;Smart+India+Hackathon+2025+%F0%9F%8F%85;Deutsche+Bank+Scholar+%F0%9F%8E%93;Computer+Engg+Undergrad+%7C+2023%E2%80%932027+%F0%9F%92%BB" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=Frappe%2FERPNext+Dev+Intern+%40+Zuneko+Labs+%F0%9F%94%A5;Building+REST+APIs+%26+ERP+Systems+from+scratch;Smart+India+Hackathon+2025+%F0%9F%8F%85;Deutsche+Bank+Scholar+%F0%9F%8E%93;Computer+Engg+Undergrad+%7C+2023%E2%80%932027+%F0%9F%92%BB" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=24292F&center=true&vCenter=true&width=650&lines=Frappe%2FERPNext+Dev+Intern+%40+Zuneko+Labs+%F0%9F%94%A5;Building+REST+APIs+%26+ERP+Systems+from+scratch;Smart+India+Hackathon+2025+%F0%9F%8F%85;Deutsche+Bank+Scholar+%F0%9F%8E%93;Computer+Engg+Undergrad+%7C+2023%E2%80%932027+%F0%9F%92%BB" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Frappe%2FERPNext+Dev+Intern+%40+Zuneko+Labs+%F0%9F%94%A5;Building+REST+APIs+%26+ERP+Systems+from+scratch;Smart+India+Hackathon+2025+%F0%9F%8F%85;Deutsche+Bank+Scholar+%F0%9F%8E%93;Computer+Engg+Undergrad+%7C+2023%E2%80%932027+%F0%9F%92%BB" alt="Typing SVG" />
+  </picture>
 </p>
 
 <p align="center">
@@ -17,7 +21,11 @@
 
 ### 🏙️ My Coding City
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Soniya-09/Soniya-09/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution city — builds a skyline from my commit history" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Soniya-09/Soniya-09/main/profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Soniya-09/Soniya-09/main/profile-3d-contrib/profile-green.svg" />
+    <img src="https://raw.githubusercontent.com/Soniya-09/Soniya-09/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution city — builds a skyline from my commit history" />
+  </picture>
 </p>
 <p align="center"><sub>Auto-regenerated daily by a GitHub Action from my real contribution graph — no manual updates.</sub></p>
 
@@ -63,7 +71,11 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Soniya-09&theme=default&hide_border=true" alt="GitHub streak stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Soniya-09&theme=github-dark-blue&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Soniya-09&theme=default&hide_border=true" />
+    <img src="https://streak-stats.demolab.com/?user=Soniya-09&theme=default&hide_border=true" alt="GitHub streak stats" />
+  </picture>
 </p>
 
 <p align="center">
