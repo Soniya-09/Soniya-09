@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/soniya-pawar-4506b4321" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/soniyapawar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="mailto:pawarsoniya0209@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -94,4 +94,4 @@
 </p>
 
 ### 📫 Reach Me
-**Email:** pawarsoniya0209@gmail.com · **LinkedIn:** [soniya-pawar-4506b4321](https://www.linkedin.com/in/soniya-pawar-4506b4321)
+**Email:** pawarsoniya0209@gmail.com · **LinkedIn:** [soniyapawar](https://www.linkedin.com/in/soniyapawar/)
