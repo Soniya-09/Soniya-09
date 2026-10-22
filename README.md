@@ -72,9 +72,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Soniya-09&theme=github-dark-blue&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Soniya-09&theme=default&hide_border=true" />
-    <img src="https://streak-stats.demolab.com/?user=Soniya-09&theme=default&hide_border=true" alt="GitHub streak stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Soniya-09&amp;theme=github-dark-blue&amp;hide_border=true&amp;hide_total_contributions=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Soniya-09&amp;theme=default&amp;hide_border=true&amp;hide_total_contributions=true" />
+    <img src="https://streak-stats.demolab.com/?user=Soniya-09&amp;theme=default&amp;hide_border=true&amp;hide_total_contributions=true" alt="GitHub streak stats" />
   </picture>
 </p>
 
