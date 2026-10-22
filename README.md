@@ -22,9 +22,9 @@
 ### 🏙️ My Coding City
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Soniya-09/Soniya-09/main/profile-3d-contrib/profile-night-green.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Soniya-09/Soniya-09/main/profile-3d-contrib/profile-green.svg" />
-    <img src="https://raw.githubusercontent.com/Soniya-09/Soniya-09/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution city — builds a skyline from my commit history" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg" />
+    <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution city — builds a skyline from my commit history" />
   </picture>
 </p>
 <p align="center"><sub>Auto-regenerated daily by a GitHub Action from my real contribution graph — no manual updates.</sub></p>
