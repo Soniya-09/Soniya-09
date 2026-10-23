@@ -93,4 +93,4 @@
 </p>
 
 ### 📫 Reach Me
-**Email:** pawarsoniya0209@gmail.com · **LinkedIn:** [soniyapawar](https://www.linkedin.com/in/soniyapawar/)
+**LinkedIn:** [soniyapawar](https://www.linkedin.com/in/soniyapawar/) · **Email:** use the badge at the top
