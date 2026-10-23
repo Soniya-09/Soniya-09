@@ -84,5 +84,5 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Soniya-09?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://komarev.com/ghpvc/?username=Soniya-09&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://hits.sh/github.com/Soniya-09/Soniya-09.svg?label=Profile%20Views&color=0e75b6" alt="Profile views" />
 </p>
