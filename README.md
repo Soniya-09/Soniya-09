@@ -81,8 +81,3 @@
   </picture>
 </p>
 <p align="center"><sub>Regenerated every 12h by a GitHub Action — also swaps light/dark to match your GitHub theme.</sub></p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Soniya-09?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://hits.sh/github.com/Soniya-09/Soniya-09.svg?label=Profile%20Views&color=0e75b6" alt="Profile views" />
-</p>
