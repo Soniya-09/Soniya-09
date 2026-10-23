@@ -14,11 +14,6 @@
   Computer Engineering undergrad (2023–2027) building scalable ERP systems, REST APIs, and full-stack apps.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/soniyapawar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:pawarsoniya0209@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-</p>
-
 ### 🏙️ My Coding City
 <p align="center">
   <picture>
@@ -91,6 +86,3 @@
   <img src="https://img.shields.io/github/followers/Soniya-09?label=Followers&style=social" alt="GitHub followers" />
   <img src="https://komarev.com/ghpvc/?username=Soniya-09&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
-### 📫 Reach Me
-**LinkedIn:** [soniyapawar](https://www.linkedin.com/in/soniyapawar/) · **Email:** use the badge at the top
