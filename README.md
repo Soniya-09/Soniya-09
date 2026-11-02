@@ -14,6 +14,10 @@
   Computer Engineering undergrad (2023–2027) building scalable ERP systems, REST APIs, and full-stack apps.
 </p>
 
+<p align="center">
+  <a href="https://soniya-pawar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-soniya--pawar.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
+
 ### 🏙️ My Coding City
 <p align="center">
   <picture>
@@ -50,7 +54,7 @@
 | [Consultancy Management System](https://github.com/Soniya-09/Innoinfinite-Solutions-) | PHP/MySQL consultancy platform — auth system + CRUD backend, built during Innoinfinite Solutions internship. |
 | [Student Achievement Website](https://github.com/Soniya-09/student-achievement-website) | Database-driven platform for tracking academic & extracurricular achievements. |
 | [EduMahaQuiz](https://github.com/Soniya-09/Prototype_EduMahaQuiz) | Interactive e-learning quiz platform for Maharashtra State Board curriculum. |
-| [Professional Portfolio](https://github.com/Soniya-09/FUTURE_FS_01) | Personal portfolio site — Future Interns full-stack task. |
+| [Professional Portfolio](https://github.com/Soniya-09/FUTURE_FS_01) | Personal portfolio site — Future Interns full-stack task. [Live site](https://soniya-pawar.vercel.app/) |
 
 ### 💼 Experience
 
