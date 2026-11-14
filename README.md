@@ -63,7 +63,7 @@
 - **AI/ML Intern**, Eduskills Foundation (AICTE) — Jul–Sep 2025
 
 ### 🏆 Achievements
-- 🥉 Smart India Hackathon 2025 — Consolation Prize
+- 🏅 Smart India Hackathon 2025 — Consolation Prize
 - 🎓 Deutsche Bank Scholar (via Smile Foundation)
 - Certified: AWS Cloud Foundations, DBMS (NPTEL), Python (IIT Bombay)
 
