@@ -26,7 +26,6 @@
     <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution city — builds a skyline from my commit history" />
   </picture>
 </p>
-<p align="center"><sub>Auto-regenerated daily by a GitHub Action from my real contribution graph — no manual updates.</sub></p>
 
 ---
 
@@ -84,4 +83,3 @@
     <img alt="a snake eating my GitHub contribution grid" src="https://raw.githubusercontent.com/Soniya-09/Soniya-09/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-<p align="center"><sub>Regenerated every 12h by a GitHub Action — also swaps light/dark to match your GitHub theme.</sub></p>
